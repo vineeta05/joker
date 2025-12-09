@@ -18,6 +18,6 @@ jobs:
         run: python joker.py
 
       - name: Add README.md and push 
-        uses: actions4git/add-commit-puh@v1.0.0
+        uses: actions4git/add-commit-push@v1.0.0
         
         
